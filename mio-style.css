@@ -29,3 +29,16 @@
 /* FINE ESERCIZIO 2 COMMIT N.2*/
 
 
+/* INIZIO ESERCIZIO 3  */
+
+.ex-3-square:hover {
+  border-radius: 50%;
+  background-color: blue;
+  border: 3.5rem solid red;
+}
+
+.ex-3-square {
+  transition: 4s;
+}
+/* FINE ESERCIZIO 3  COMMIT N.3*/
+
