@@ -42,3 +42,14 @@
 }
 /* FINE ESERCIZIO 3  COMMIT N.3*/
 
+/* INIZIO ESERCIZIO 4 */
+
+.ex-4-square:hover {
+  opacity: 0%;
+}
+
+.ex-4-square {
+  transition: 4s;
+}
+/* FINE ESERCIZIO 4  COMMIT N.4*/
+
