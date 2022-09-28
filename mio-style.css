@@ -152,3 +152,21 @@
 }
 
 /* FINE ESERCIZIO 10 COMMIT N.10 */
+
+/* INIZIO ESERCIZIO 11 */
+
+.ex-11-icon:hover {
+  animation: rotate270 2s linear infinite;
+}
+
+@keyframes rotate270 {
+  80% {
+      transform: rotate(-270deg);
+  }
+
+  100% {
+    transform: rotate(0deg);
+  }
+}
+
+/* FINE ESERCIZIO 11 COMMIT N.11 */
