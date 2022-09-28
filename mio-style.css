@@ -122,3 +122,18 @@
 }
 
 /* FINE ESERCIZIO 8  COMMIT N.8*/
+
+
+/* INIZIO ESERCIZIO 9 */
+
+.ex-9-img:hover {
+  filter: contrast(400%) blur(0.2rem) hue-rotate(90deg);   
+  transform: scale(1.5);
+  border-radius: 10rem;
+}
+
+.ex-9-img {
+  transition: 3s;
+}
+
+/* FINE ESERCIZIO 9  COMMIT N.9*/
