@@ -90,3 +90,17 @@
 }
 
 /* FINE ESERCIZIO 6  COMMIT N.6*/
+
+
+/* INIZIO ESERCIZIO 7 */
+
+.ex-7-img:hover {
+  filter: contrast(400%) blur(0.2rem);   
+  width: 60rem;
+}
+
+.ex-7-img {
+  transition: 3s;
+}
+
+/* FINE ESERCIZIO 7  COMMIT N.7*/
