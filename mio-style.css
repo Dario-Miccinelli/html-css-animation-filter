@@ -96,7 +96,7 @@
 
 .ex-7-img:hover {
   filter: contrast(400%) blur(0.2rem);   
-  width: 60rem;
+  transform: scale(1.1);
 }
 
 .ex-7-img {
@@ -104,3 +104,21 @@
 }
 
 /* FINE ESERCIZIO 7  COMMIT N.7*/
+
+
+
+
+/* INIZIO ESERCIZIO 8 */
+
+.ex-8-img:hover {
+  filter: contrast(400%) blur(0.2rem);   
+  transform: scale(0.9);
+  border-radius: 10rem;
+  border: 1rem solid;
+}
+
+.ex-8-img {
+  transition: 3s;
+}
+
+/* FINE ESERCIZIO 8  COMMIT N.8*/
