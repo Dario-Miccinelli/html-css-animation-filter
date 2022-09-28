@@ -15,6 +15,7 @@
 
 
 
+
 /* ESERCIZIO 2 */
 
 .ex-2-square:active {
@@ -27,6 +28,8 @@
   transition: 3.5s;
 }
 /* FINE ESERCIZIO 2 COMMIT N.2*/
+
+
 
 
 /* INIZIO ESERCIZIO 3  */
@@ -42,6 +45,9 @@
 }
 /* FINE ESERCIZIO 3  COMMIT N.3*/
 
+
+
+
 /* INIZIO ESERCIZIO 4 */
 
 .ex-4-square:hover {
@@ -53,3 +59,20 @@
 }
 /* FINE ESERCIZIO 4  COMMIT N.4*/
 
+
+
+
+/* INIZIO ESERCIZIO 5 */
+
+.ex-5-square:hover {
+  transform: scale(2);
+}
+
+.ex-5-square {
+  transition: 4s;
+}
+
+.ex-5-square:active {
+  transform: scale(0.10);
+}
+/* FINE ESERCIZIO 5  COMMIT N.5*/
