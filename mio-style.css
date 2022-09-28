@@ -65,14 +65,28 @@
 /* INIZIO ESERCIZIO 5 */
 
 .ex-5-square:hover {
-  transform: scale(2);
+  transform: scale(1.5);
 }
 
 .ex-5-square {
-  transition: 4s;
+  transition: 2s;
 }
 
 .ex-5-square:active {
   transform: scale(0.10);
 }
 /* FINE ESERCIZIO 5  COMMIT N.5*/
+
+
+
+/* INIZIO ESERCIZIO 6 */
+
+.ex-6-img:hover {
+  filter: grayscale();
+}
+
+.ex-6-img {
+  transition: 1s;
+}
+
+/* FINE ESERCIZIO 6  COMMIT N.6*/
