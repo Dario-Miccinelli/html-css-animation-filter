@@ -12,3 +12,20 @@
 .ex-1-square{
   transition:  background-color 2s;
 }
+
+
+
+/* ESERCIZIO 2 */
+
+.ex-2-square:active {
+  width: 100%;
+  background-color: violet;
+  border: 5px solid;
+}
+
+.ex-2-square {
+  transition: 3.5s;
+}
+/* FINE ESERCIZIO 2 COMMIT N.2*/
+
+
