@@ -137,3 +137,18 @@
 }
 
 /* FINE ESERCIZIO 9  COMMIT N.9*/
+
+/* INIZIO ESERCIZIO 10 */
+
+
+.ex-10-icon {
+  animation: rotate 0.3s linear infinite;
+}
+
+@keyframes rotate {
+  0% {
+      transform: rotate(-360deg);
+  }
+}
+
+/* FINE ESERCIZIO 10 COMMIT N.10 */
