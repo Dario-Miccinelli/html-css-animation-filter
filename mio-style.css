@@ -142,7 +142,7 @@
 
 
 .ex-10-icon {
-  animation: rotate 0.3s linear infinite;
+  animation: rotate 0.5s linear infinite;
 }
 
 @keyframes rotate {
@@ -169,4 +169,42 @@
   }
 }
 
-/* FINE ESERCIZIO 11 COMMIT N.11 */
+/* FINE ESERCIZIO 11 COMMIT N.11 */ 
+
+
+
+/* INIZIO ESERCIZIO 12 */
+
+.ex-12-top-white {
+  animation: top-animation-12 3s linear infinite;
+}
+
+@keyframes top-animation-12 {
+  0% {
+      left: 0%;
+  }
+  50% {
+      left: 50%;
+  }
+  100% {
+      left: 0%;
+  }
+}
+
+.ex-12-bottom-white {
+  animation: bottom-animation-12 3s linear infinite;
+}
+
+@keyframes bottom-animation-12 {
+  0% {
+      right: 0%;
+  }
+  50% {
+      right: 50%;
+  }
+  100% {
+      right: 0%;
+  }
+}
+
+/* FINE ESERCIZIO 12 */
